@@ -85,11 +85,11 @@ to flock  ; sheep procedure
   ]
 end
 
-to turn-towards [ new-heading ]  ; sheep procedure
+to turn-towards [ new-heading ]  
   let current-heading heading ; Get the current heading of the sheep
   let turn-angle subtract-headings new-heading current-heading ; Calculate the angle to turn towards the new heading
    
-  rt turn-angle  ; Rotate the sheep by the calculated angle, scaled by the strength factor
+  rt turn-angle  
   fd 1 ;
 end
 </pre>
