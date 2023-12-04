@@ -113,7 +113,7 @@ max-sheep
 - **grass-regrowth-time** 30 
 <table>
 <thead>
-<tr><th>Час росту трави</th><th>Популяція овець</th></tr>
+<tr><th>Вірогідності появлення нової вівці</th><th>Популяція вовків</th></tr>
 </thead>
 <tbody>
 <tr><td>2</td><td>43</td></tr>
