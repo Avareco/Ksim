@@ -95,8 +95,8 @@ end
 </pre>
 
 Скріншот моделі в процесі симуляції
+![image](https://github.com/Avareco/Ksim/assets/31128616/7a7f4f89-ecb3-4930-9180-7e4431094c10)
 
-Фінальний код моделі та її інтерфейс доступні за  [посиланням](https://github.com/knureigs/GitHubDocs_Simulation/blob/main/lb/Simulation_Lab2/example-model.nlogo).  _// якщо вносили зміни до інтерфейсу середовища моделювання - то експорт потрібен у форматі nlogo, як тут. Інакше, якщо змінювався лише код логіки моделі, достатньо викласти лише його, як  [тут](https://github.com/knureigs/GitHubDocs_Simulation/blob/main/lb/Simulation_Lab2/example-model-code.html),якщо експортовано з десктопної версії NetLogo, або окремим текстовим файлом, шляхом копіпасту з веб-версії_.  
 
 ## Обчислювальні експерименти
 ### [1. Дослідження залежності популяції вовків від насиченості від однієї вівці](https://github.com/Avareco/Ksim/blob/main/README.md#1-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D1%96%D1%97-%D0%B2%D0%BE%D0%B2%D0%BA%D1%96%D0%B2-%D0%B2%D1%96%D0%B4-%D0%BD%D0%B0%D1%81%D0%B8%D1%87%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D1%96-%D0%B2%D1%96%D0%B4-%D0%BE%D0%B4%D0%BD%D1%96%D1%94%D1%97-%D0%B2%D1%96%D0%B2%D1%86%D1%96)
